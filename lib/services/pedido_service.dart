@@ -6,7 +6,8 @@ import '../models/pedido.dart';
 class PedidoService {
   static const String baseUrl =
       //"https://script.google.com/macros/s/AKfycbxlvmJYksqalPz4rR8kHen2aDhZ94XSLQI5jQTRHMlAwi-lK9GIj56kQzdQT4NIbrbzxA/exec";
-      "https://script.google.com/macros/s/AKfycbwNrfH-DmuO2Vm7ul95VwPitvqLSu_zWGtZMl7tbHnjzR83wNxsUKJY4VM51YHWWTu-xw/exec";
+      "https://script.google.com/macros/s/AKfycbx8sdoz2e9Ymd15VbmtSLkFRD2uuPPp55EZ8jwxDxm2e8cg4wtMUl5Zz-0NOc2zBxW4Gw/exec";
+       
   // -----------------------------------------------------------------------------
   // 🔹 MÉTODO GENERAL REUTILIZABLE PARA TODOS LOS MÓDULOS
   // -----------------------------------------------------------------------------
